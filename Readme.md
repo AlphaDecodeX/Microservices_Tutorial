@@ -7,6 +7,11 @@
 
 </div>
 <br/>
--> Feel Free to add your inputs and make a Pull Request
-
+<div align="center">
+<h3> Feel Free to add your inputs and make a Pull Request</h3>
+<br/><br/>
 THANKS 🚀
+</div>
+
+
+
